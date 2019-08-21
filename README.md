@@ -5,7 +5,7 @@
 ## Deployed on Heroku
 https://morning-garden-93153.herokuapp.com/
 
-> Environment & Setup
+> Development Environment & Setup
 1. Nodejs
 2. Visual studio code
 - Plugins:
