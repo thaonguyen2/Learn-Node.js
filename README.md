@@ -4,7 +4,7 @@
 ## Deployed on Heroku
 https://morning-garden-93153.herokuapp.com/
 
-> Environment & Setup (section 1)
+> Environment & Setup
 1. Nodejs
 2. Visual studio code
 - Plugins:
@@ -12,8 +12,9 @@ https://morning-garden-93153.herokuapp.com/
   - ES7 React/Redux/GraphQL/React-Native snippets
   - Prettier - Code formatter
   
-
 3. Git
 4. Postman
 5. React developer tools
 6. Redux devtools
+7. Express
+8. Node mon
