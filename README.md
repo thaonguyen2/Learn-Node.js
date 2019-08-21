@@ -3,3 +3,11 @@
 
 ## Deployed on Heroku
 https://morning-garden-93153.herokuapp.com/
+
+### Environment & Setup (section 1)
+- Nodejs
+- Visual studio code
+- Git
+- Postman
+- React developer tools
+- Redux devtools
