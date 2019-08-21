@@ -4,12 +4,12 @@
 ## Deployed on Heroku
 https://morning-garden-93153.herokuapp.com/
 
-### Environment & Setup (section 1)
+> Environment & Setup (section 1)
 1. Nodejs
 2. Visual studio code
-> Plugins:
-- Bracket pair colorizer
-- ES7 React/Redux/GraphQL/React-Native snippets
+- Plugins:
+  - Bracket pair colorizer
+  - ES7 React/Redux/GraphQL/React-Native snippets
 
 3. Git
 4. Postman
