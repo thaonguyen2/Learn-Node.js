@@ -1,5 +1,6 @@
 # DevConnector
-## Full Stack React, Redux &amp; Node.js
+## Backend: Nodejs, Express, MongoDB, JWT
+## Frontend: Reactjs, Redux
 
 ## Deployed on Heroku
 https://morning-garden-93153.herokuapp.com/
@@ -16,6 +17,4 @@ https://morning-garden-93153.herokuapp.com/
 4. Postman
 5. React developer tools
 6. Redux devtools
-7. Express
-8. MongoDB Atlas
-9. Node mon
+7. MongoDB Atlas
