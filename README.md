@@ -9,8 +9,8 @@ https://morning-garden-93153.herokuapp.com/
 1. Nodejs
 2. Visual studio code
 - Plugins:
-  - Bracket pair colorizer
   - ES7 React/Redux/GraphQL/React-Native snippets
+  - Bracket pair colorizer
   - Prettier - Code formatter
   - Live server
   - Node.js modules intellisense
