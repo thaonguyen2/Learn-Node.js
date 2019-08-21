@@ -17,4 +17,5 @@ https://morning-garden-93153.herokuapp.com/
 5. React developer tools
 6. Redux devtools
 7. Express
-8. Node mon
+8. MongoDB Atlas
+9. Node mon
