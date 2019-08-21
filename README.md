@@ -10,6 +10,8 @@ https://morning-garden-93153.herokuapp.com/
 - Plugins:
   - Bracket pair colorizer
   - ES7 React/Redux/GraphQL/React-Native snippets
+  - Prettier - Code formatter
+  
 
 3. Git
 4. Postman
